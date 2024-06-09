@@ -7,4 +7,5 @@ using std::endl;
 void main()
 {
 	// 654.321
+	// 6.54321
 }
